@@ -8,7 +8,7 @@
     - [version](?file=001-Docker手册/001-Docker命令介绍/003-version "version")
 
 ##### Git手册
-- [REDME](?file=002-Git手册/001-REDME "REDME")
+- [常用命令](?file=002-Git手册/001-常用命令 "常用命令")
 
 ##### 文档示范
 - [通用API接口文档示例](?file=003-文档示范/001-通用API接口文档示例 "通用API接口文档示例")
