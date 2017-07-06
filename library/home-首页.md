@@ -1,10 +1,17 @@
-# amWiki轻文库
+# 技术笔记整理
 
 <br>
 
-![欢迎使用amWiki！](amWiki/images/logo.png "欢迎使用amWiki！")  
+文库内容来自业余时间整理，欢迎阅读！ 
 
-### 欢迎使用 amWiki 轻文库!
-—— **amWiki 致力于让大家可以更简单、更便捷的建设个人和团队文库！**  
 
-[ [view amWiki on Github](https://github.com/TevinLi/amWiki) ]
+### 文库内容简介
+
+待完善
+
+
+您可以 [Fork GitHub Project](https://github.com/zingson/wiki.git) 来一起完善此文档文档。
+
+交流QQ群：xxxxx
+
+有任何建议可以给我邮件：zingsono@gmail.com
