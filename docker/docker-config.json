@@ -1,9 +1,0 @@
-
-{
-  "registry-mirrors": [
-    "https://62oh6osg.mirror.aliyuncs.com"
-  ],
-  "insecure-registries": [],
-  "debug": true,
-  "experimental": true
-}
