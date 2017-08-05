@@ -44,17 +44,8 @@ Github：https://github.com/docker/distribution-library-image.git
     
     
 
-docker是一个非常好用的虚拟化工具。
 
-下面给出建立私有docker hub的方法。docker将私有hub的环境打包在registry image中
-
-执行指令：
-
-docker run -p 5000:5000 registry
-
-这条指令启动一个基于registry image的cotainer。并将host主机的port 5000绑定到虚拟机的端口5000。
-
-这样，对该host主机端口5000的任何访问都转移到虚拟机中。
+先打标签再push  
 
 上传image：
 
@@ -71,3 +62,12 @@ docker push  192.168.1.1:5000/vim
 下载image：
 
 docker pull  192.168.1.1:5000/vim
+
+
+### 使用Dockerfile创建容器
+
+```
+# 创建Docker registry 服务
+
+
+```
